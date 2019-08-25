@@ -7,6 +7,6 @@ import { ProductService } from './shared/product.service';
   styleUrls: ['./app.component.css'],
   providers:[ProductService]
 })
-export class AppComponent {
+export class AppComponent {z
   title = 'web19';
 }
